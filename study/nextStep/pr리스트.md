@@ -12,5 +12,6 @@
 * sesion3
     * step1 : https://github.com/next-step/java-ladder/pull/313
     * step2 : https://github.com/next-step/java-ladder/pull/320
+    * step3 : https://github.com/next-step/java-ladder/pull/347
 * session4
     * step1 : https://github.com/next-step/java-bowling/pull/97
